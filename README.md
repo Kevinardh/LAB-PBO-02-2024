@@ -6,7 +6,7 @@
 1. Buat akun GitHub (https://github.com/)
 2. Download Git (https://git-scm.com/)
 
-## Alur pengumpulan tugas ke repositori ini:
+## Alur pengumpulan tugas ke repositori:
 
 1. **Fork** repositori ini
 
